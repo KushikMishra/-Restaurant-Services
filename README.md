@@ -32,19 +32,6 @@ Rosso is a full-stack SaaS platform for modern restaurant operations:
 - Database: PostgreSQL / MySQL
 - Integrations with payment APIs, delivery services
 
-## Setup
-1. Clone repo & install
-2. Set `.env` with DB, payment, EPOS configs
-3. Run migrations (`npm run migrate`)
-4. `npm run dev`
-
 ## Usage
 - Admin dashboard → setup locations, staff, vendors
 - Reconciliation module → upload/import statements, auto-map transactions
-
-## Contributing
-Issues and PRs are welcome. Follow code style and add tests.
-
-## License
-MIT (or as appropriate)
-
